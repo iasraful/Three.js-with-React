@@ -2,8 +2,10 @@
 
 ## Installation
 
-yarn install
-cd Three.js-with-React
-yarn start
+#### yarn install
+
+#### cd Three.js-with-React <br>
+
+#### yarn start
 
 # Live: https://react-three-minecraft.netlify.app/
